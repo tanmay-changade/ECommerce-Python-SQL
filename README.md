@@ -1,22 +1,23 @@
 # ECommerce-Python-SQL
 
-<h2>About-Target Platform/Website: </h2>
-<b>Target is a globally recognized brand and a leading retailer in the United States, known for offering exceptional value, inspiration, innovation, and a unique shopping experience.</b>
-<h2>Project Goal : </h2> 
-<b>Analyzing this dataset offers valuable insights into Target's Brazilian operations, revealing details about Customer Demographics and Behavior, Sales and Order Performance, Product and Seller Performance, Business Growth and Health, High-Value Customers, pricing strategies, payment and shipping efficiency and customer satisfaction. This comprehensive dataset is a valuable resource for understanding various business aspects and enhancing strategic decision-making.</b>
-<h2>Tech Stack: </h2>
+<h2>About-Target Platform/Website 🛍️: </h2>
+<b>Target is a globally recognized brand and a leading retailer 🛒 in the United States, known for offering exceptional value, inspiration, innovation, and a unique shopping experience.</b>
+<h2>Project Goal 🎯: </h2> 
+<b>Analyzing this dataset offers valuable insights into Target's Brazilian operations, revealing details about Customer Demographics and Behavior, Sales and Order Performance, Product and Seller Performance, Business Growth and Health, High-Value Customers, pricing strategies, payment and shipping efficiency and customer satisfaction. This comprehensive dataset is a valuable resource for understanding various business aspects and enhancing strategic decision-making.<br>
+☑️Analysis is done using SQL by computing Queries in python to showcase SQL knowledge and integration of SQL in python.Matplotlib is used for visualization.</b>
+<h2>Tech Stack 👩‍💻: </h2>
 <b>
 💻Python<br>
 📂SQL<br>
 📊Matplotlib<br>
 🐼Pandas<br></b>
 
-<h2>File Format: </h2>
-Main.py :It is the main code file containing all sql queries to fetch from database and present them using pandas and matplotlib<br>
-Main.ipynb : same as main file but as jupiter notebook to see output without running the code<br>
-CSV_to_Database.py :<br>
+<h2>File Format 📁: </h2>
+<b>Main.py </b>:It is the main code file containing all sql queries to fetch from database and present them using pandas and matplotlib.<br>
+<b>CSV_to_Database.py </b>: The code in this file create mysql database schema,create appropriate tables, clean columns and naming in data using pandas and save the data into database.<br>
+<b>Main.ipynb </b>: same as Main file but as jupyter notebook to see output without running the code, just download it and run in jupyter environment.<br>
 
-<h2>Data Overview:</h2>
+<h2>Data Overview ✔️:</h2>
 <b>The data focuses on Target's operations in Brazil, covering 1,00,000 orders placed between 2016 and 2018. It includes detailed information on order status, pricing, payment and shipping performance, customer locations, product attributes, and customer reviews.<br>
 The data is available in 7 csv files:<br></b>
 <b>1. customers.csv</b><br>
@@ -86,5 +87,5 @@ The <b>sellers.csv</b> contains following columns:<br>
 <i>seller_city</i>: Name of the City of the seller.<br>
 <i>seller_state</i>: State Code (Eg. são paulo - SP).<br>
 
-Dataset Link : https://www.kaggle.com/datasets/devarajv88/target-dataset?select=products.csv
+<b>Dataset Link </b> 🔗: https://www.kaggle.com/datasets/devarajv88/target-dataset?select=products.csv
 
