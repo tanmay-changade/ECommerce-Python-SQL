@@ -16,6 +16,7 @@
 <b>Main.py </b>:It is the main code file containing all sql queries to fetch from database and present them using pandas and matplotlib.<br>
 <b>CSV_to_Database.py </b>: The code in this file create mysql database schema,create appropriate tables, clean columns and naming in data using pandas and save the data into database.<br>
 <b>Main.ipynb </b>: same as Main file but as jupyter notebook to see output without running the code, just download it and run in jupyter environment.<br>
+<b>Questions.txt</b>: This text file contains all the questions that are answered using data.
 
 <h2>Data Overview ✔️:</h2>
 <b>The data focuses on Target's operations in Brazil, covering 1,00,000 orders placed between 2016 and 2018. It includes detailed information on order status, pricing, payment and shipping performance, customer locations, product attributes, and customer reviews.<br>
