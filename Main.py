@@ -5,7 +5,7 @@ import mysql.connector
 import numpy as np
 
 db = mysql.connector.connect(
-    host="localhost", user="root", password="Tanmay@2001", database="target_ecommerce"
+    host="####", user="####", password="####", database="target_ecommerce"
 )
 
 cursor = db.cursor()
@@ -213,3 +213,4 @@ print(df)
 sb.barplot(x="id", y="payment", data=df, hue="years")
 plt.xticks(rotation=90)
 plt.show()
+
